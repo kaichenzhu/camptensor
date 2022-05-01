@@ -1,0 +1,85 @@
+sku,campaign_name,group_name,targeting,match_type,targeting_type,impressions,clicks,orders,cvr
+NY-MHXI-54LO,Switzerland Puzzle | ASIN,Product,"category=""Jigsaw Puzzles""",-,Product Targeting,779,73,1,0.02162377916151901
+NY-MHXI-54LO,Switzerland Puzzle | ASIN,keywords,puzzle 1000 pieces adult,PHRASE,Keyword,455,19,0,0.0
+NY-MHXI-54LO,Switzerland Puzzle | Positive,Ad group 1,puzzle 1000 pieces adult,PHRASE,Keyword,455,19,0,0.0
+NY-MHXI-54LO,Switzerland Puzzle | Positive,Ad group 1,puzzle 1000 pieces adult,EXACT,Keyword,455,19,0,0.0
+NY-MHXI-54LO,Switzerland Puzzle | ASIN,keywords,snow puzzle,PHRASE,Keyword,78,8,0,0.0
+NY-MHXI-54LO,Switzerland Puzzle | Test,Ad group 1,snow puzzles,PHRASE,Keyword,78,8,0,0.0
+NY-MHXI-54LO,Toy | Puzzle Switzerland | Theme-1,Ad group 1,snow puzzle,PHRASE,Keyword,78,8,0,0.0
+NY-MHXI-54LO,Toy | Puzzle Switzerland | Theme-1,Ad group 1,snow puzzle,EXACT,Keyword,78,8,0,0.0
+NY-MHXI-54LO,Switzerland Puzzle | ASIN,keywords,1000 piece puzzles adults,PHRASE,Keyword,65,10,0,0.0
+NY-MHXI-54LO,Switzerland Puzzle | Explore-1,Ad group 1,christmas puzzles for adults 1000 piece,EXACT,Keyword,5518,38,0,0.0
+NY-MHXI-54LO,Switzerland Puzzle | Explore-1,Ad group 1,christmas puzzles for adults 1000 piece,BROAD,Keyword,5518,38,0,0.0
+NY-MHXI-54LO,Switzerland Puzzle | Explore-1,Ad group 1,christmas jigsaw puzzles,EXACT,Keyword,915,9,0,0.0
+NY-MHXI-54LO,Switzerland Puzzle | Explore-1,Ad group 1,christmas jigsaw puzzles,BROAD,Keyword,915,9,0,0.0
+balloon-macaron,Balloon Macaron | ASIN,keywords,birthday balloons,PHRASE,Keyword,549,10,0,0.0
+balloon-macaron,Balloon Macaron | ASIN,keywords,unicorn candy,PHRASE,Keyword,736,16,0,0.0
+balloon-macaron,Balloon Macaron | Explore-2,Ad group 1,unicorn candy,PHRASE,Keyword,736,16,0,0.0
+balloon-macaron,Balloon Macaron | Positive,Ad group 1,unicorn candy,PHRASE,Keyword,736,16,0,0.0
+balloon-macaron,Balloon Macaron | Positive,Ad group 1,unicorn candy,EXACT,Keyword,736,16,0,0.0
+balloon-macaron,Balloon Macaron | Test,Ad group 1,unicorn candy,PHRASE,Keyword,736,16,0,0.0
+balloon-macaron,Balloon Macaron | ASIN,keywords,unicorn birthday decorations for girls,EXACT,Keyword,2265,9,0,0.0
+balloon-macaron,Balloon Macaron | Explore-2,Ad group 1,unicorn birthday decorations for girls,EXACT,Keyword,2265,9,0,0.0
+balloon-macaron,Balloon Macaron | ASIN,ASIN,"asin=""B07V956BMT""",-,Product Targeting,741,9,0,0.0
+balloon-macaron,Balloon Macaron | Explore-2,Ad group 1,balloons for birthday party,PHRASE,Keyword,149,17,0,0.0
+balloon-macaron,Balloon Macaron | Test,Ad group 1,balloons for birthday party,PHRASE,Keyword,149,17,0,0.0
+balloon-macaron,Balloon Macaron | Test,Ad group 1,unicorn balloon birthday,EXACT,Keyword,772,18,0,0.0
+balloon-macaron,Balloon Macaron | Positive,Ad group 1,unicorn balloons birthday,PHRASE,Keyword,772,18,0,0.0
+balloon-macaron,Balloon Macaron | Explore-1,Ad group 1,unicorn balloons birthday,EXACT,Keyword,772,18,0,0.0
+balloon-macaron,Balloon Macaron | Explore-1,Ad group 1,unicorn balloons birthday,BROAD,Keyword,772,18,0,0.0
+balloon-macaron,Balloon Macaron | ASIN,ASIN,"asin=""B07RJW8RBC""",-,Product Targeting,139,8,0,0.0
+balloon-macaron,Balloon Macaron | Positive,Ad group 1,pastel decorations for party,BROAD,Keyword,658,12,0,0.0
+balloon-macaron,Balloon Macaron | Test,Ad group 1,pastel decorations for party,EXACT,Keyword,658,12,0,0.0
+balloon-macaron,Balloon Macaron | Test,Ad group 1,pastel decorations for party,BROAD,Keyword,658,12,0,0.0
+balloon-macaron,Balloon Macaron | Explore-1,Ad group 1,macaron balloon,EXACT,Keyword,733,23,0,0.0
+balloon-macaron,Balloon Macaron | Explore-1,Ad group 1,macaron balloon,BROAD,Keyword,733,23,0,0.0
+6W-53CG-99ZL,Corn Rope Stick | ASIN,keywords,puppy toys,PHRASE,Keyword,294,13,0,0.0
+6W-53CG-99ZL,Corn Rope Stick | ASIN,keywords,puppy toys,EXACT,Keyword,294,13,0,0.0
+6W-53CG-99ZL,Corn Rope Stick | Explore-2,Ad group 1,rope dog toys,EXACT,Keyword,52,9,0,0.0
+6W-53CG-99ZL,Corn Rope Stick | Explore-2,Ad group 1,rope dog toys,PHRASE,Keyword,52,9,0,0.0
+6W-53CG-99ZL,Corn Rope Stick | Test,Ad group 1,rope dog toys,EXACT,Keyword,52,9,0,0.0
+6W-53CG-99ZL,Corn Rope Stick | Test,Ad group 1,rope dog toys,PHRASE,Keyword,52,9,0,0.0
+6W-53CG-99ZL,Corn Rope Stick | Explore-1,Ad group 1,dog toy indestructible,PHRASE,Keyword,29,12,0,0.0
+6W-53CG-99ZL,Corn Rope Stick | Explore-1,Ad group 1,dog toy indestructible,BROAD,Keyword,29,12,0,0.0
+6W-53CG-99ZL,Corn Rope Stick | Explore-1,Ad group 1,tough dog toy,EXACT,Keyword,498,9,0,0.0
+Dogs toy - Toothbrush Stick Bone,Blue Stick Bone | ASIN,Product,"category=""Dog Toys""",-,Product Targeting,359,8,0,0.0
+7R-1FCN-IMB8,RB Suction Cup | ASIN,Product,"asin=""B001JQLNB4""",-,Product Targeting,699,8,0,0.0
+7R-1FCN-IMB8,RB Suction Cup | Explore-1,Ad group 1,Dog Rope Ball Toys,BROAD,Keyword,32,12,0,0.0
+XV-YMIA-1LE7,Corn Suction Cup | ASIN,Product,"category=""Dog Chew Toys""",-,Product Targeting,230,21,0,0.0
+XV-YMIA-1LE7,Pet | Corn Molar Suction Cup | Explore,Ad group 1,tough dog toys,EXACT,Keyword,1091,9,0,0.0
+XV-YMIA-1LE7,Pet | Corn Molar Suction Cup | Explore,Ad group 1,dog toys large breed,PHRASE,Keyword,440,9,0,0.0
+XV-YMIA-1LE7,Pet | Corn Molar Suction Cup | Explore,Ad group 1,dog toys large breed,EXACT,Keyword,440,9,0,0.0
+XV-YMIA-1LE7,Corn Suction Cup | Test,Ad group 1,dog toys large breed,EXACT,Keyword,440,9,0,0.0
+XV-YMIA-1LE7,Corn Suction Cup | Explore-1,Ad group 1,toy for large dog,PHRASE,Keyword,15,8,0,0.0
+XV-YMIA-1LE7,Corn Suction Cup | Explore-1,Ad group 1,toy for large dog,EXACT,Keyword,15,8,0,0.0
+XV-YMIA-1LE7,Corn Suction Cup | Test,Ad group 1,toys for large dogs,PHRASE,Keyword,15,8,0,0.0
+XV-YMIA-1LE7,Pet | Corn Molar Suction Cup | Usage,Ad group 1,dog toy large breed,PHRASE,Keyword,84,8,0,0.0
+XV-YMIA-1LE7,Pet | Corn Molar Suction Cup | Usage,Ad group 1,dog toy large breed,EXACT,Keyword,84,8,0,0.0
+XV-YMIA-1LE7,Corn Suction Cup | Positive,Ad group 1,large dog toys for aggressive chewers indestructible,EXACT,Keyword,133,8,0,0.0
+XV-YMIA-1LE7,Corn Suction Cup | Positive,Ad group 1,large dog toys for aggressive chewers indestructible,BROAD,Keyword,133,8,0,0.0
+54-N02A-9FKZ,Puzzle Lotus | MANU,Product,"category=""Jigsaw Puzzles""",-,Product Targeting,35,8,0,0.0
+V1-UFTA-WEVU,Puzzle Castle | MANU,Product,"category=""Jigsaw Puzzles""",-,Product Targeting,24,11,0,0.0
+V1-UFTA-WEVU,Puzzle Castle | AT,keywords,*,-,Auto,610,70,1,0.025087269958211745
+V1-UFTA-WEVU,Entire Catalog 10-10-2020 ba07,Other - Jigsaw Puzzles,*,-,Auto,610,70,1,0.025087269958211745
+sticker004,Sticker Gold | Positive,Ad group 1,thank you stickers gold,BROAD,Keyword,172,14,0,0.0
+sticker004,Sticker Gold | Positive,Ad group 1,thank you stickers gold,PHRASE,Keyword,172,14,0,0.0
+sticker004,Sticker Gold | Positive,Ad group 1,gold stickers,BROAD,Keyword,31,12,0,0.0
+sticker004,Sticker Gold | Positive,Ad group 1,gold stickers,PHRASE,Keyword,31,12,0,0.0
+sticker004,Sticker Gold | Positive,Ad group 1,foil stickers,BROAD,Keyword,88,12,0,0.0
+sticker004,Sticker Gold | Positive,Ad group 1,foil stickers,PHRASE,Keyword,88,12,0,0.0
+sticker001,Sticker Black | Positive,Ad group 1,round stickers,PHRASE,Keyword,168,31,1,0.03687150961660181
+sticker003,Sticker Multi | Positive,Ad group 1,thank you sticker roll,PHRASE,Keyword,895,17,0,0.0
+sticker003,Sticker Multi | Positive,Ad group 1,thank you sticker roll,EXACT,Keyword,895,17,0,0.0
+EL-GVN9-GSUY,Christmas Socks | Positive,Ad group 1,plain christmas stockings,EXACT,Keyword,192,10,0,0.0
+sticker002,Sticker Christmas | Positive,Ad group 1,christmas envelope stickers,EXACT,Keyword,2143,14,0,0.0
+sticker002,Sticker Christmas | Positive,Ad group 1,round christmas stickers,PHRASE,Keyword,338,11,0,0.0
+sticker002,Sticker Christmas | Positive,Ad group 1,round christmas stickers,EXACT,Keyword,338,11,0,0.0
+Santa hat,Christmas Hat | Positive,Ad group 1,santa hat adult,PHRASE,Keyword,502,30,0,0.0
+Santa hat,Christmas Hat | Positive,Ad group 1,santa hat adult,EXACT,Keyword,502,30,0,0.0
+Santa hat,Christmas Hat | Positive,Ad group 1,christmas hat adult,PHRASE,Keyword,7806,64,2,0.04914349521224848
+Santa hat,Christmas Hat | Positive,Ad group 1,christmas hat adult,EXACT,Keyword,7806,64,2,0.04914349521224848
+JX-Z1VQ-M5DN,Rings White | AT,Ad Group 1,*,-,Auto,148,17,0,0.0
+ring - silicone - black,Ring Black | AT,Ad group 1,*,-,Auto,1349,21,0,0.0
+"Succulent pots-plastic-3inch,6 pcs",Pot 6pc | Positive,Ad group 1,succulent planters,PHRASE,Keyword,30,14,0,0.0
+"Succulent pots-plastic-3inch,6 pcs",Pot 6pc | Positive,Ad group 1,succulent planters,EXACT,Keyword,30,14,0,0.0
+"Succulent pots-plastic-3inch,6 pcs",Pot 6pc | AT,Ad group 1,*,-,Auto,1034,117,0,0.0

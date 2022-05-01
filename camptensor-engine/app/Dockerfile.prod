@@ -1,0 +1,81 @@
+###########
+# BUILDER #
+###########
+
+# pull official base image
+FROM python:3.8.7-slim-buster as builder
+
+ADD sources.list /etc/apt/
+
+## install dependencies
+RUN apt-get update && \
+    apt-get upgrade -y && \
+    apt-get install -y netcat-openbsd gcc && \
+    apt-get clean
+
+# set work directory
+WORKDIR /usr/src/app
+
+# install dependencies
+RUN pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+# install nltk
+RUN pip install nltk -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+COPY ./requirements.txt .
+RUN pip wheel --no-cache-dir --no-deps --wheel-dir /usr/src/app/wheels -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+#########
+# FINAL #
+#########
+
+# pull official base image
+FROM python:3.8.7-slim-buster
+
+ADD sources.list /etc/apt/
+RUN apt-get update && apt-get install -y netcat
+
+# create directory for the app user
+RUN mkdir -p /home/app
+
+# create the app user
+RUN groupadd app && useradd -g app app
+
+# create the appropriate directories
+ENV HOME=/home/app
+ENV APP_HOME=/home/app/web
+RUN mkdir $APP_HOME
+RUN mkdir $APP_HOME/static
+RUN mkdir $APP_HOME/mediafiles
+WORKDIR $APP_HOME
+
+# install dependencies
+COPY --from=builder /usr/src/app/wheels /wheels
+COPY --from=builder /usr/src/app/requirements.txt .
+RUN pip install --no-cache /wheels/*
+
+# copy entrypoint-prod.sh
+# COPY ./entrypoint.prod.sh $APP_HOME
+
+# copy project
+# COPY ./manage.py $APP_HOME
+# COPY ./api $APP_HOME/api
+# COPY ./jwtauth $APP_HOME/jwtauth
+# COPY ./server $APP_HOME/server
+# COPY ./appfront/dist $APP_HOME/appfront/dist
+RUN apt-get install -y net-tools
+# chown all the files to the app user
+## add user
+RUN addgroup --system user && adduser --system --no-create-home --group user
+RUN chown -R user:user /home/app/web/ && chmod -R 755 /home/app/web/
+
+# change to the app user
+# USER app
+
+# set environment variables
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
+
+
+# run entrypoint.prod.sh
+ENTRYPOINT ["/home/app/web/entrypoint.prod.sh"]

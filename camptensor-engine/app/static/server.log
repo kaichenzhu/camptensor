@@ -1,0 +1,55 @@
+[2021-02-15 18:52:43,760] [INFO] Watching for file changes with StatReloader
+[2021-02-15 19:11:28,236] [INFO] Watching for file changes with StatReloader
+[2021-02-15 19:14:45,567] [INFO] Watching for file changes with StatReloader
+[2021-02-15 21:19:28,948] [INFO] Watching for file changes with StatReloader
+[2021-02-15 21:52:58,984] [INFO] Watching for file changes with StatReloader
+[2021-02-15 21:53:04,272] [INFO] "GET / HTTP/1.1" 200 538
+[2021-02-15 21:53:04,351] [INFO] "GET /static/static/js/manifest.5d95bda98e1a8153979c.js HTTP/1.1" 200 863
+[2021-02-15 21:53:04,358] [INFO] "GET /static/static/css/app.e6acd85ff713859b64b434f10eefe35d.css HTTP/1.1" 200 233257
+[2021-02-15 21:53:04,546] [INFO] "GET /static/static/js/app.9fa0529dc93da3949fb5.js HTTP/1.1" 200 20671
+[2021-02-15 21:53:04,550] [INFO] "GET /static/static/js/vendor.a8530c9a1787d167a802.js HTTP/1.1" 200 862633
+[2021-02-15 21:53:05,189] [INFO] "GET /staticstatic/img/man.bdd9aae.png HTTP/1.1" 200 538
+[2021-02-15 21:53:05,192] [INFO] "GET /staticstatic/fonts/element-icons.535877f.woff HTTP/1.1" 200 538
+[2021-02-15 21:53:05,243] [INFO] "GET /staticstatic/fonts/element-icons.732389d.ttf HTTP/1.1" 200 538
+[2021-02-15 21:53:05,328] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:53:10,206] [INFO] "GET /static/static/js/manifest.5d95bda98e1a8153979c.js.map HTTP/1.1" 200 4978
+[2021-02-15 21:53:10,208] [INFO] "GET /static/static/js/app.9fa0529dc93da3949fb5.js.map HTTP/1.1" 200 125980
+[2021-02-15 21:53:10,220] [INFO] "GET /static/static/css/app.e6acd85ff713859b64b434f10eefe35d.css.map HTTP/1.1" 200 332059
+[2021-02-15 21:53:10,232] [INFO] "GET /static/static/js/vendor.a8530c9a1787d167a802.js.map HTTP/1.1" 200 3424872
+[2021-02-15 21:53:14,666] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:53:17,506] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:53:32,184] [INFO] "POST /jwtauth/register/ HTTP/1.1" 201 438
+[2021-02-15 21:53:32,443] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:25,045] [INFO] Watching for file changes with StatReloader
+[2021-02-15 21:54:29,439] [INFO] "GET / HTTP/1.1" 200 538
+[2021-02-15 21:54:29,630] [INFO] "GET /staticstatic/img/man.bdd9aae.png HTTP/1.1" 200 538
+[2021-02-15 21:54:29,643] [INFO] "GET /staticstatic/fonts/element-icons.535877f.woff HTTP/1.1" 200 538
+[2021-02-15 21:54:29,699] [INFO] "GET /staticstatic/fonts/element-icons.732389d.ttf HTTP/1.1" 200 538
+[2021-02-15 21:54:29,783] [INFO] "GET /static/static/js/manifest.5d95bda98e1a8153979c.js.map HTTP/1.1" 200 4978
+[2021-02-15 21:54:29,785] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:29,804] [INFO] "GET /static/static/js/app.9fa0529dc93da3949fb5.js.map HTTP/1.1" 200 125980
+[2021-02-15 21:54:29,820] [INFO] "GET /static/static/css/app.e6acd85ff713859b64b434f10eefe35d.css.map HTTP/1.1" 200 332059
+[2021-02-15 21:54:29,832] [INFO] "GET /static/static/js/vendor.a8530c9a1787d167a802.js.map HTTP/1.1" 200 3424872
+[2021-02-15 21:54:30,779] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:32,470] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:34,608] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:34,658] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:35,105] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:36,318] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:36,946] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:37,842] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:41,145] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:41,722] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:45,687] [INFO] "GET /login HTTP/1.1" 200 538
+[2021-02-15 21:54:45,873] [INFO] "GET /staticstatic/img/man.bdd9aae.png HTTP/1.1" 200 538
+[2021-02-15 21:54:45,883] [INFO] "GET /static/static/js/manifest.5d95bda98e1a8153979c.js.map HTTP/1.1" 200 4978
+[2021-02-15 21:54:45,889] [INFO] "GET /static/static/js/app.9fa0529dc93da3949fb5.js.map HTTP/1.1" 200 125980
+[2021-02-15 21:54:45,892] [INFO] "GET /staticstatic/fonts/element-icons.535877f.woff HTTP/1.1" 200 538
+[2021-02-15 21:54:45,894] [INFO] "GET /static/static/css/app.e6acd85ff713859b64b434f10eefe35d.css.map HTTP/1.1" 200 332059
+[2021-02-15 21:54:45,918] [INFO] "GET /static/static/js/vendor.a8530c9a1787d167a802.js.map HTTP/1.1" 200 3424872
+[2021-02-15 21:54:46,154] [INFO] "GET /staticstatic/fonts/element-icons.732389d.ttf HTTP/1.1" 200 538
+[2021-02-15 21:54:47,965] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
+[2021-02-15 21:54:49,322] [WARNING] Unauthorized: /jwtauth/obtain_token/
+[2021-02-15 21:54:49,325] [WARNING] "POST /jwtauth/obtain_token/ HTTP/1.1" 401 63
+[2021-02-15 21:54:59,497] [INFO] "POST /jwtauth/obtain_token/ HTTP/1.1" 200 486
+[2021-02-15 21:54:59,701] [INFO] "GET /favicon.ico HTTP/1.1" 200 538
